@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "name": "WEBD6201-ICE1",
+  "version": "0.0.1",
+  "description": "ICE 1 for WEBD6201",
+  "main": "index.js",
+  "repository": "https://github.com/JonathonWager/Webd6201.git",
+  "author": "Jonathon Wager",
+  "license": "MIT"
+}
